@@ -1,0 +1,82 @@
+
+
+
+li{
+    color:red;
+    list-style-type:none;
+    margin:3px;
+    display:inline-block;
+    border:1px solid red;
+    background-color:rgb(239, 243, 231)
+    
+
+}
+
+body{
+
+}
+
+
+table{
+    margin-left: 10px;
+    border:1px solid black;
+    height:60vh;
+    width:100vh;
+    align-content: center;
+     
+}
+    
+
+.colour{
+    color:red;
+    background-color: rgb(235, 240, 235);
+    margin-left:0px;
+    height:20vh;
+    border:2px solid green;
+    width:50vh;
+}
+
+
+
+footer{
+    background-color: lightblue;
+    color:rgb(141, 71, 255);
+    border:2px solid blue;
+    height:20vh;
+    width:50vh;
+}
+
+
+
+
+article{
+    background-color:limegreen;
+    color:brown;
+    height:20vh;
+    border:2px solid rgb(2, 20, 2);
+    width:50vh;
+}
+
+main{
+    background-color: aqua;
+    height:20vh;
+    border:2px solid blue;
+    width:50vh;
+    color:lawngreen;
+}
+
+nav{
+    background-color: blueviolet;
+    height:20vh;
+    border:2px solid red;
+    width:50vh;
+    color:goldenrod;
+}
+
+section{
+    background-color: brown;
+    height:20vh;
+    width:50vh;
+    color:pink;
+}
+

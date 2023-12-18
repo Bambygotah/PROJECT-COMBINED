@@ -1,0 +1,34 @@
+header{
+    display:inline-flex;
+    width:100%;
+    justify-content: center;
+    position: relative;
+
+}
+
+header ul{
+    display: inline-flex;
+    padding-right:30px;
+    
+}
+
+header ul li{
+    list-style-type: none;
+    padding-left: 20px;
+    
+
+}
+
+header ul li a{
+    text-decoration:none;
+    
+}
+body{
+    background-image:url(backnew.png);
+    background-repeat: no-repeat;
+     background-attachment: fixed;
+    background-size: cover;
+    background-size: 130% 100%;
+    font-weight: 100;
+    font-size: x-large;
+}
